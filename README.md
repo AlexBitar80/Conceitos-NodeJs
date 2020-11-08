@@ -47,6 +47,6 @@ $ yarn dev ou npm run dev
 # use esses comandos para rodar os testes
 $ yarn test ou npm run test
 
-# por padrão o projeto está rodando em (http://localhost:3333)
 ```
 
+##por padrão o projeto está rodando em (http://localhost:3333)
