@@ -1,6 +1,10 @@
-<h2 align="center">
+<h1 align="center">
+  
+</h1>
+
+<h4 align="center">
 	BootCamp Gostack - Desafio 2 - Conceitos NodeJs
-</h2>
+</h4>
 <p align="center">
   Um pequeno desafio que se consistia em completar o código de uma API simples utilizando o NodeJs
 </p>
