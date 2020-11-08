@@ -1,7 +1,3 @@
-<h1 align="center">
-  
-</h1>
-
 <h2 align="center">
 	BootCamp Gostack - Desafio 2 - Conceitos NodeJs
 </h2>
